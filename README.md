@@ -6,6 +6,7 @@ HTML / CSS / JavaScript を用いて制作しました。
 ---
 
 #公開URL
+https://atom2344.github.io/beauty.Lp/
 
 # Features
 
